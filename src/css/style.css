@@ -138,3 +138,63 @@ input:focus, button:focus {
   font-size: 14px;
   font-weight: 300;
 }
+
+.masters {
+  background-color: #f4f4f4;
+  padding-top: 49px;
+  padding-bottom: 55px;
+}
+.masters-top {
+  text-align: center;
+  margin-bottom: 37px;
+}
+.masters-top__title {
+  font-size: 36px;
+  font-weight: 700;
+  color: #f39003;
+}
+.masters-top__subtitle {
+  font-size: 16px;
+  font-weight: 400;
+  color: #373737;
+}
+.masters-bottom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.masters-bottom-border {
+  margin-bottom: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 294px;
+  height: 132px;
+  background-color: #fff;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.masters-bottom__img {
+  margin-left: 18px;
+  margin-right: 11px;
+  vertical-align: center;
+}
+.masters-bottom-text {
+  max-width: 202px;
+}
+.masters-bottom__title {
+  font-size: 15px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.masters-bottom__subtitle {
+  font-size: 14px;
+  font-weight: 300;
+}
