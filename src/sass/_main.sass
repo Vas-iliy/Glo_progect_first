@@ -3,6 +3,7 @@
   padding-top: 65px
   padding-bottom: 60px
   background: #4d4b41 url(../img/main/main-bg.jpg) center no-repeat
+  background-size: cover //ихображение полностью заполнило пространство
   color: $text-color-light
   z-index: 1
   /* Затемнение фонового изображения на главном экране */
@@ -19,7 +20,7 @@
     /* Оформление главной картинки */
   &-img
     position: relative
-    &::before
+    &::after
       content: ''
       position: absolute
       z-index: -1
@@ -37,3 +38,34 @@
     &__subtitle
       font-size: 28px
       font-weight: 300
+      margin-bottom: 27px
+    &__form
+      padding: 30px 27px
+      background-color: rgba(255, 255, 255, 0.2)
+.form
+  display: flex
+  //justify-content: space-between
+  &-title
+    margin-bottom: 20px
+    padding-right: 87px
+    font-size: 20px
+    font-weight: 300
+    line-height: 30px
+    &__important
+      text-transform: uppercase
+      font-weight: 700
+  &__input
+    margin-right: 10px
+    vertical-align: middle
+    padding: 20px
+    height: 44px
+    border-radius: 5px
+    border: none
+    flex-basis: 50%
+    font-size: 14px
+  margin-bottom: 12px
+  &-small
+    font-size: 14px
+    font-weight: 300
+
+
