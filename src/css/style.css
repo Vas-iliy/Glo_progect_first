@@ -31,6 +31,15 @@ input:focus, button:focus {
 .button img {
   vertical-align: middle;
 }
+.button-wight {
+  background-color: #fff;
+  border: 1px solid #ff9d00;
+  opacity: 0.5;
+  font-size: 14px;
+  font-weight: 400;
+  color: #373737;
+  margin-bottom: 35px;
+}
 
 .header {
   padding: 15px 0;
@@ -192,9 +201,42 @@ input:focus, button:focus {
 .masters-bottom__title {
   font-size: 15px;
   font-weight: 700;
+  color: #373737;
   margin-bottom: 10px;
 }
 .masters-bottom__subtitle {
   font-size: 14px;
   font-weight: 300;
+  color: #373737;
+}
+
+.production-title {
+  text-align: center;
+}
+.production-title h2 {
+  color: #373737;
+  font-size: 27px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 57px;
+  margin-bottom: 12px;
+}
+.production-title img {
+  margin-bottom: 21px;
+}
+.production-product {
+  vertical-align: bottom;
+  text-align: center;
+}
+.production-product__title {
+  margin-top: 19px;
+  margin-bottom: 28px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #373737;
+}
+
+.top {
+  -webkit-transform: translateY(-20px);
+          transform: translateY(-20px);
 }
