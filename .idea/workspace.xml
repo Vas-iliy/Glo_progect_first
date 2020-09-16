@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab37effd-e1a7-4c70-9753-f164f1e942cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sass/_main-2.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/_modal.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/_masters.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_masters.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/_product.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_product.sass" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.sass" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lesson_flexbox" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -70,7 +72,9 @@
       <updated>1600080606038</updated>
       <workItem from="1600080607642" duration="10845000" />
       <workItem from="1600108703637" duration="66000" />
-      <workItem from="1600120015996" duration="11177000" />
+      <workItem from="1600120015996" duration="11406000" />
+      <workItem from="1600191395324" duration="122000" />
+      <workItem from="1600259600094" duration="3383000" />
     </task>
     <servers />
   </component>
@@ -86,14 +90,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="883" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600087869335" />
-    <state x="933" y="167" key="FileChooserDialogImpl" timestamp="1600127805718">
+    <state x="933" y="167" key="FileChooserDialogImpl" timestamp="1600191515983">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="933" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600127805718" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1600108742539">
+    <state x="933" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600191515983" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1600191499230">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600108742539" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1600191499230" />
     <state x="791" y="27" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1600089469812">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
