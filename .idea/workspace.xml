@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab37effd-e1a7-4c70-9753-f164f1e942cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sass/_modal.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_masters.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_masters.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/_product.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_product.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sass/style.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/_modal.sass" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_modal.sass" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -74,7 +73,7 @@
       <workItem from="1600108703637" duration="66000" />
       <workItem from="1600120015996" duration="11406000" />
       <workItem from="1600191395324" duration="122000" />
-      <workItem from="1600259600094" duration="3383000" />
+      <workItem from="1600259600094" duration="3925000" />
     </task>
     <servers />
   </component>
